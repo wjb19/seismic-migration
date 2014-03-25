@@ -1,4 +1,4 @@
 seismic-migration
 =================
 
-scripts and codes for migration
+incomplete scripts and codes for migration
